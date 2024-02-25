@@ -1,0 +1,6 @@
+
+numpy==1.26.0
+poetry==1.6.1
+poetry-core==1.7.0
+requests==2.31.0
+requests-toolbelt==1.0.0
